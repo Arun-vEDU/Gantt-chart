@@ -2,7 +2,7 @@
 
 #  Interactive Gantt Chart with Python
 
-![Gantt Chart Example](advanced.png) *(Replace with actual screenshot)*
+![Gantt Chart Example](Advanced.png) *(Replace with actual screenshot)*
 
 ##  Overview
 A Python-generated **interactive Gantt chart** built with `plotly.express` for project timeline visualization. Perfect for tracking tasks, deadlines, and progress in software development, construction, event planning, and more.
